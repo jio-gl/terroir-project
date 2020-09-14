@@ -6,7 +6,7 @@ Uses regression to estimate Scoring of new wine locations.
 
 Two layers: i) Vineyards Layer, ii) Scoring Layer.
 
-Uses: matplitlib, sklearn and numpy.
+Uses: matplotlib, sklearn and numpy.
 
 ![alt text](https://i.ibb.co/n8fkCGD/Terroir.png "Terroir")
 
