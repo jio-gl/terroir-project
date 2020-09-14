@@ -1,6 +1,6 @@
 # terroir-project
 
-A Data Science tool for Vineyards in Argentina, Location Scorings and Discovering New Wine Locations.
+A Data Science tool for Vineyards in Argentina, Location Scorings and Discovering New Wine Locations. Combines Weather Data with existing Vineyard locations.
 
 Uses regression to estimate Scoring of new wine locations.
 
