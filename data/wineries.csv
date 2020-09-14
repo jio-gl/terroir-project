@@ -1,0 +1,527 @@
+pais_id,nompais_id,codprovincia,provincia,departamento_id,partido_nom,link,cant_bodegas,cant_vinedos,cant_fabrica,SAG
+32,ARGENTINA,66,SALTA,35,CERRILLOS,66035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,42,CHICOANA,66042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,98,LA VINA,66098,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,133,QUITILIPI,22133,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,168,25 DE MAYO,22168,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,91,JIMENEZ,86091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,70,INDEPENDENCIA,22070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,21,COMANDANTE FERNANDEZ,22021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,105,9 DE JULIO,22105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,49,GENERAL BELGRANO,22049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,28,CHACABUCO,22028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,119,PRESIDENTE DE LA PLAZA,22119,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,36,12 DE OCTUBRE,22036,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,35,BANDA,86035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,112,O'HIGGINS,22112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,147,SAN LORENZO,22147,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,98,MAYOR LUIS J. FONTANA,22098,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,39,2 DE ABRIL,22039,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,14,BERON DE ASTRADA,18014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,49,CAPITAL,86049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,161,ROBLES,86161,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,43,FRAY JUSTO SANTA MARIA DE ORO,22043,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,189,SILIPICA,86189,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,63,CHOYA,86063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,63,FRAY MAMERTO ESQUIU,10063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,119,SAN BLAS DE LOS SAUCES,46119,0,13,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,105,LORETO,86105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,49,CAPITAL,10049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,21,CASTRO BARROS,46021,0,17,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,126,SANAGASTA,46126,0,3,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,42,CHILECITO,46042,17,436,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,105,INDEPENDENCIA,46105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,70,GENERAL JUAN F. QUIROGA,46070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,21,CASTELLANOS,82021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,112,ROSARIO VERA PENALOZA,46112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,126,SAN MARTIN,82126,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,182,UNION,14182,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,42,GENERAL SAN MARTIN,14042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,56,JUAREZ CELMAN,14056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,98,SAN MARTIN,50098,150,3035,1,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,112,SANTA ROSA,50112,27,775,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,35,JUNIN,50035,67,1607,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,84,RIVADAVIA,50084,85,1607,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,119,TUNUYAN,50119,25,397,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,623,PERGAMINO,6623,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,175,COLON,6175,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,77,ARRECIFES,6077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,714,SALTO,6714,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,140,CAPITAN SARMIENTO,6140,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,161,CARMEN DE ARECO,6161,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,392,GENERAL VILLEGAS,6392,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,351,GENERAL PINTO,6351,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,210,CHACABUCO,6210,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,277,FLORENTINO AMEGHINO,6277,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,784,SUIPACHA,6784,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,469,LINCOLN,6469,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,532,MERCEDES,6532,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,112,BRAGADO,6112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,224,CHIVILCOY,6224,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,385,GENERAL VIAMONTE,6385,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,21,ALBERTI,6021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,574,NAVARRO,6574,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,126,RANCUL,42126,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,133,REALICO,42133,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,56,CHAPALEUFU,42056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,154,CARLOS TEJEDOR,6154,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,483,LOBOS,6483,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,679,RIVADAVIA,6679,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,588,9 DE JULIO,6588,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,854,25 DE MAYO,6854,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,147,TRENEL,42147,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,147,CARLOS CASARES,6147,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,547,MONTE,6547,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,693,ROQUE PEREZ,6693,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,105,MARACO,42105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,609,PEHUAJO,6609,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,826,TRENQUE LAUQUEN,6826,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,707,SALADILLO,6707,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,35,CONHELO,42035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,616,PELLEGRINI,6616,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,119,QUEMU QUEMU,42119,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,105,BOLIVAR,6105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,98,LOVENTUE,42098,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,406,HIPOLITO YRIGOYEN,6406,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,140,TOAY,42140,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,21,CAPITAL,42021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,847,TRES LOMAS,6847,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,231,DAIREAUX,6231,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,28,CATRILO,42028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,595,OLAVARRIA,6595,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,812,TORDILLO,6812,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,399,GUAMINI,6399,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,721,SALLIQUELO,6721,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,308,GENERAL GUIDO,6308,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,7,ADOLFO ALSINA,6007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,420,LA COSTA,6420,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,336,GENERAL LAVALLE,6336,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,42,AYACUCHO,6042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,91,LIMAY MAHUIDA,42091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,7,ATREUCO,42007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,511,MAIPU,6511,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,154,UTRACAN,42154,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,322,GENERAL LA MADRID,6322,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,203,CORONEL SUAREZ,6203,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,315,GENERAL JUAN MADARIAGA,6315,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,448,LAPRIDA,6448,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,70,GUATRACHE,42070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,644,PINAMAR,6644,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,700,SAAVEDRA,6700,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,518,MAR CHIQUITA,6518,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,868,VILLA GESELL,6868,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,77,HUCAL,42077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,196,CORONEL PRINGLES,6196,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,819,TORNQUIST,6819,2,3,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,357,GENERAL PUEYRREDON,6357,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,280,GENERAL ALVARADO,6280,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,189,CORONEL DORREGO,6189,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,56,BAHIA BLANCA,6056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,182,CORONEL DE MARINA L ROSALES,6182,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,553,MONTE HERMOSO,6553,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,49,9 DE JULIO,62049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,70,PASO DE INDIOS,26070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,70,IRUYA,66070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,34,FORMOSA,28,MATACOS,34028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,14,CACHI,66014,0,10,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,119,MOLINOS,66119,0,9,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,63,GUACHIPAS,66063,0,3,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,34,FORMOSA,56,PIRANE,34056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,84,LA CANDELARIA,66084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,21,CAFAYATE,66021,21,96,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,35,BELEN,10035,0,62,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,91,MAIPU,22091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,154,SARGENTO CABRAL,22154,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,56,EL ALTO,10056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,7,ARAUCO,46007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,49,FAMATINA,46049,0,133,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,42,CAPAYAN,10042,0,2,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,112,VALLE VIEJO,10112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,14,ANCASTI,10014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,70,LA PAZ,10070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,14,CAPITAL,46014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,28,CORONEL FELIPE VARELA,46028,2,382,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,154,SOBREMONTE,14154,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,56,JACHAL,70056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,56,GENERAL ANGEL V. PENALOZA,46056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,35,CHAMICAL,46035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,651,PUAN,6651,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,28,CONESA,62028,0,15,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,84,VALCHETA,62084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,91,25 DE MAYO,62091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,56,NORQUINCO,62056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,105,TELSEN,26105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,91,SARMIENTO,26091,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,343,GENERAL PAZ,6343,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,77,SANTA CATALINA,38077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,56,GENERAL JOSE DE SAN MARTIN,66056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,133,RIVADAVIA,66133,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,112,YAVI,38112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,161,SANTA VICTORIA,66161,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,49,RINCONADA,38049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,7,COCHINOCA,38007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,126,ORAN,66126,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,34,FORMOSA,63,RAMON LISTA,34063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,28,HUMAHUACA,38028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,84,SUSQUES,38084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,34,FORMOSA,7,BERMEJO,34007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,105,VALLE GRANDE,38105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,94,TILCARA,38094,0,6,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,98,TUMBAYA,38098,0,5,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,91,LA POMA,66091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,35,LEDESMA,38035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,70,SANTA BARBARA,38070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,105,LOS ANDES,66105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,21,DR. MANUEL BELGRANO,38021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,147,ROSARIO DE LERMA,66147,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,63,SAN PEDRO,38063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,42,PALPALA,38042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,34,FORMOSA,35,PATINO,34035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,7,ANTA,66007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,63,GENERAL GUEMES,22063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,56,SAN ANTONIO,38056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,38,JUJUY,14,EL CARMEN,38014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,77,LA CALDERA,66077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,49,GENERAL GUEMES,66049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,28,CAPITAL,66028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,34,FORMOSA,42,PILAGAS,34042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,7,ALMIRANTE BROWN,22007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,112,METAN,66112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,34,FORMOSA,49,PILCOMAYO,34049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,154,SAN CARLOS,66154,4,118,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,28,ANTOFAGASTA DE LA SIERRA,10028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,66,SALTA,140,ROSARIO DE LA FRONTERA,66140,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,56,COPO,86056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,133,PELLEGRINI,86133,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,34,FORMOSA,14,FORMOSA,34014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,84,LIBERTADOR GENERAL SAN MARTIN,22084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,49,GENERAL MANUEL BELGRANO,54049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,63,IGUAZU,54063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,112,TRANCAS,90112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,91,SANTA MARIA,10091,4,121,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,7,BURRUYACU,90007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,98,TAFI DEL VALLE,90098,3,22,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,14,ALBERDI,86014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,34,FORMOSA,21,LAISHI,34021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,105,TAFI VIEJO,90105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,42,ELDORADO,54042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,105,TINOGASTA,10105,7,935,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,63,LULES,90063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,119,YERBA BUENA,90119,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,14,CRUZ ALTA,90014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,14,BERMEJO,22014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,84,CAPITAL,90084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,70,FIGUEROA,86070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,112,SAN PEDRO,54112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,28,FAMAILLA,90028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,119,MORENO,86119,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,70,MONTEROS,90070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,84,MONTECARLO,54084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,56,LEALES,90056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,21,CHICLIGASTA,90021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,126,1 DE MAYO,22126,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,56,GENERAL DONOVAN,22056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,77,LIBERTADOR GENERAL SAN MARTIN,54077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,56,GUARANI,54056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,147,RIO HONDO,86147,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,21,ANDALGALA,10021,0,6,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,91,SIMOCA,90091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,77,LIBERTAD,22077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,98,SAN IGNACIO,54098,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,77,RIO CHICO,90077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,14,CAINGUAS,54014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,161,TAPENAGA,22161,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,42,JUAN B. ALBERDI,90042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,133,SAN COSME,18133,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,77,ITATI,18077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,22,CHACO,140,SAN FERNANDO,22140,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,35,GRANEROS,90035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,21,CAPITAL,18021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,7,AMBATO,10007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,140,SAN LUIS DEL PALMAR,18140,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,91,OBERA,54091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,90,TUCUMAN,49,LA COCHA,90049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,119,25 DE  MAYO,54119,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,84,POMAN,10084,0,12,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,84,GUASAYAN,86084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,84,ITUZAINGO,18084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,21,CANDELARIA,54021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,28,CAPITAL,54028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,63,GENERAL PAZ,18063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,98,VINCHINA,46098,0,26,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,98,JUAN F. IBARRA,86098,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,154,SAN MIGUEL,18154,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,77,PACLIN,10077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,42,EMPEDRADO,18042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,182,SARMIENTO,86182,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,10,CATAMARCA,98,SANTA ROSA,10098,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,70,LEANDRO N. ALEM,54070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,175,SAN MARTIN,86175,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,98,MBURUCUYA,18098,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,105,SAN JAVIER,54105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,7,APOSTOLES,54007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,77,9 DE JULIO,82077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,133,VERA,82133,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,168,SANTO TOME,18168,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,49,GENERAL OBLIGADO,82049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,54,MISIONES,35,CONCEPCION,54035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,126,SALADAS,18126,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,28,AVELLANEDA,86028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,28,CONCEPCION,18028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,77,GENERAL LAMADRID,46077,0,30,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,77,GENERAL TABOADA,86077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,7,BELLA VISTA,18007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,21,ATAMISQUI,86021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,49,IGLESIA,70049,0,5,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,161,SAN ROQUE,18161,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,147,SAN MARTIN,18147,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,168,SALAVINA,86168,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,126,OJO DE AGUA,86126,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,56,GENERAL ALVEAR,18056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,105,MERCEDES,18105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,7,AGUIRRE,86007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,42,BELGRANO,86042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,140,QUEBRACHOS,86140,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,91,LAVALLE,18091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,70,GOYA,18070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,112,MITRE,86112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,35,CURUZU CUATIA,18035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,119,PASO DE LOS LIBRES,18119,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,98,SAN JAVIER,82098,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,175,TULUMBA,14175,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,91,SAN CRISTOBAL,82091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,49,ESQUINA,18049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,112,RIO SECO,14112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,86,SANTIAGO DEL ESTERO,154,RIVADAVIA,86154,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,119,VALLE FERTIL,70119,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,175,SAUCE,18175,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,28,CRUZ DEL EJE,14028,0,4,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,112,SAN JUSTO,82112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,49,ISCHILIN,14049,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,18,CORRIENTES,112,MONTE CASEROS,18112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,21,CALINGASTA,70021,0,12,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,42,FELICIANO,30042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,63,GENERAL BELGRANO,46063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,140,SAN JUSTO,14140,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,168,TOTORAL,14168,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,70,LA PAZ,30070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,28,FEDERACION,30028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,105,RIO PRIMERO,14105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,112,ULLUM,70112,2,111,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,70,MINAS,14070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,91,PUNILLA,14091,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,70,LAS COLONIAS,82070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,84,GENERAL OCAMPO,46084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,35,GARAY,82035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,35,FEDERAL,30035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,21,COLON,14021,2,91,1,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,35,CAUCETE,70035,19,810,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,14,ANGACO,70014,4,385,1,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,7,ALBARDON,70007,4,332,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,15,CONCORDIA,30015,0,4,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,63,LA CAPITAL,82063,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,46,LA RIOJA,91,GENERAL SAN MARTIN,46091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,77,POCHO,14077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,133,ZONDA,70133,3,107,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,14,CAPITAL,14014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,84,PARANA,30084,0,3,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,119,RIO SEGUNDO,14119,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,147,SANTA MARIA,14147,1,2,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,126,SAN ALBERTO,14126,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,113,VILLAGUAY,30113,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,88,SAN SALVADOR,30088,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,91,SAN MARTIN,70091,9,447,1,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,42,CHIMBAS,70042,9,191,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,84,RIVADAVIA,70084,5,67,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,98,SANTA LUCIA,70098,17,292,1,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,28,CAPITAL,70028,12,6,1,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,63,9 DE JULIO,70063,3,224,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,77,RAWSON,70077,13,309,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,70,POCITO,70070,28,468,3,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,126,25 DE MAYO,70126,14,555,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,7,CALAMUCHITA,14007,1,4,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,70,SAN JUAN,105,SARMIENTO,70105,6,641,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,74,SAN LUIS,7,AYACUCHO,74007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,133,SAN JAVIER,14133,0,9,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,74,SAN LUIS,49,JUNIN,74049,0,2,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,105,SAN JERONIMO,82105,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,8,COLON,30008,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,21,DIAMANTE,30021,0,3,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,161,TERCERO ARRIBA,14161,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,77,NOGOYA,30077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,49,LAS HERAS,50049,6,127,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,56,LAVALLE,50056,15,1191,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,91,TALA,30091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,63,MARCOS JUAREZ,14063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,98,URUGUAY,30098,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,74,SAN LUIS,63,LIBERTADOR GENERAL SAN MARTIN,74063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,98,RIO CUARTO,14098,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,105,VICTORIA,30105,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,7,BELGRANO,82007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,74,SAN LUIS,28,CHACABUCO,74028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,74,SAN LUIS,14,BELGRANO,74014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,56,IRIONDO,82056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,119,SAN LORENZO,82119,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,63,LUJAN DE CUYO,50063,124,816,6,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,56,GUALEGUAYCHU,30056,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,74,SAN LUIS,21,CORONEL PRINGLES,74021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,49,GUALEGUAY,30049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,28,GUAYMALLEN,50028,47,165,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,70,MAIPU,50070,126,1075,6,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,7,CAPITAL,50007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,21,GODOY CRUZ,50021,3,0,1,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,84,ROSARIO,82084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,74,SAN LUIS,35,GENERAL PEDERNERA,74035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,14,CASEROS,82014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,126,TUPUNGATO,50126,24,563,3,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,42,LA PAZ,50042,0,34,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,74,SAN LUIS,56,JUAN MARTIN DE PUEYRREDON,74056,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,28,CONSTITUCION,82028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,30,ENTRE RIOS,63,ISLAS DEL IBICUY,30063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,763,SAN NICOLAS,6763,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,82,SANTA FE,42,GENERAL LOPEZ,82042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,665,RAMALLO,6665,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,91,SAN CARLOS,50091,23,634,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,770,SAN PEDRO,6770,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,70,BARADERO,6070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,84,PRESIDENTE ROQUE SAENZ PENA,14084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,14,CORDOBA,35,GENERAL ROCA,14035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,686,ROJAS,6686,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,882,ZARATE,6882,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,105,SAN RAFAEL,50105,76,2425,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,294,GENERAL ARENALES,6294,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,126,CAMPANA,6126,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,735,SAN ANTONIO DE ARECO,6735,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,266,EXALTACION DE LA CRUZ,6266,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,413,JUNIN,6413,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,462,LEANDRO N. ALEM,6462,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,728,SAN ANDRES DE GILES,6728,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,252,ESCOBAR,6252,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,805,TIGRE,6805,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,14,GENERAL ALVEAR,50014,0,1117,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,638,PILAR,6638,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,497,LUJAN,6497,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,50,MENDOZA,77,MALARGUE,50077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,515,MALVINAS ARGENTINAS,6515,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,412,JOSE C PAZ,6412,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,74,SAN LUIS,42,GOBERNADOR DUPUY,74042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,756,SAN ISIDRO,6756,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,371,GENERAL SAN MARTIN,6371,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,560,MORENO,6560,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,861,VICENTE LOPEZ,6861,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,364,GENERAL RODRIGUEZ,6364,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,760,SAN MIGUEL,6760,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,13,COMUNA 13,2013,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,840,TRES DE FEBRERO,6840,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,12,COMUNA 12,2012,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,408,HURLINGHAM,6408,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,14,COMUNA 14,2014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,15,COMUNA 15,2015,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,2,COMUNA 02,2002,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,568,MORON,6568,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,11,COMUNA 11,2011,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,410,ITUZAINGO,6410,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,1,COMUNA 01,2001,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,5,COMUNA 05,2005,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,3,COMUNA 03,2003,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,6,COMUNA 06,2006,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,10,COMUNA 10,2010,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,7,COMUNA 07,2007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,539,MERLO,6539,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,4,COMUNA 04,2004,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,427,LA MATANZA,6427,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,9,COMUNA 09,2009,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,35,AVELLANEDA,6035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,2,CABA,8,COMUNA 08,2008,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,525,MARCOS PAZ,6525,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,434,LANUS,6434,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,329,GENERAL LAS HERAS,6329,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,490,LOMAS DE ZAMORA,6490,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,658,QUILMES,6658,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,260,ESTEBAN ECHEVERRIA,6260,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,270,EZEIZA,6270,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,91,BERAZATEGUI,6091,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,28,ALMIRANTE BROWN,6028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,274,FLORENCIO VARELA,6274,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,245,ENSENADA,6245,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,98,BERISSO,6098,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,441,LA PLATA,6441,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,648,PRESIDENTE PERON,6648,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,134,CANUELAS,6134,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,778,SAN VICENTE,6778,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,505,MAGDALENA,6505,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,119,BRANDSEN,6119,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,655,PUNTA INDIO,6655,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,301,GENERAL BELGRANO,6301,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,455,LAS FLORES,6455,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,287,GENERAL ALVEAR,6287,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,49,CHALILEO,42049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,63,CHICAL CO,42063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,168,CASTELLI,6168,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,630,PILA,6630,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,798,TAPALQUE,6798,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,42,CHOS  MALAL,58042,0,7,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,77,MINAS,58077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,672,RAUCH,6672,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,238,DOLORES,6238,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,49,AZUL,6049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,91,PEHUENCHES,58091,0,2,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,112,PUELEN,42112,0,1,1,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,791,TANDIL,6791,0,2,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,84,BENITO JUAREZ,6084,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,84,NORQUIN,58084,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,42,GENERAL ROCA,62042,16,155,4,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,63,BALCARCE,6063,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,42,CURACO,42042,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,84,LIHUEL CALEL,42084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,14,ANELO,58014,3,33,3,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,63,LONCOPUE,58063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,14,ADOLFO GONZALES CHAVES,6014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,476,LOBERIA,6476,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,581,NECOCHEA,6581,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,833,TRES ARROYOS,6833,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,742,SAN CAYETANO,6742,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,42,LA PAMPA,14,CALEU CALEU,42014,0,3,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,105,PICUNCHES,58105,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,35,CONFLUENCIA,58035,1,21,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,875,VILLARINO,6875,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,112,ZAPALA,58112,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,14,AVELLANEDA,62014,0,23,1,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,63,PICHI MAHUIDA,62063,0,11,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,7,ALUMINE,58007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,35,EL CUY,62035,0,4,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,98,PICUN LEUFU,58098,0,4,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,21,CATAN LIL,58021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,602,PATAGONES,6602,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,49,HUILICHES,58049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,28,COLLON CURA,58028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,77,SAN ANTONIO,62077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,70,PILCANIYEU,62070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,56,LACAR,58056,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,7,ADOLFO ALSINA,62007,0,6,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,58,NEUQUEN,70,LOS LAGOS,58070,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,62,RIO NEGRO,21,BARILOCHE,62021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,7,BIEDMA,26007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,49,GASTRE,26049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,14,CUSHAMEN,26014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,35,FUTALEUFU,26035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,56,LANGUINEO,26056,0,1,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,77,RAWSON,26077,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,42,GAIMAN,26042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,63,MARTIRES,26063,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,28,FLORENTINO AMEGHINO,26028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,98,TEHUELCHES,26098,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,21,ESCALANTE,26021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,26,CHUBUT,84,RIO SENGUER,26084,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,78,SANTA CRUZ,14,DESEADO,78014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,78,SANTA CRUZ,35,LAGO BUENOS AIRES,78035,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,78,SANTA CRUZ,49,RIO CHICO,78049,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,78,SANTA CRUZ,42,MAGALLANES,78042,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,78,SANTA CRUZ,28,LAGO ARGENTINO,78028,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,78,SANTA CRUZ,7,CORPEN AIKE,78007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,78,SANTA CRUZ,21,GUER AIKE,78021,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,94,TIERRA DEL FUEGO,7,RIO GRANDE,94007,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,94,TIERRA DEL FUEGO,14,USHUAIA,94014,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,749,SAN FERNANDO,6749,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,217,CHASCOMUS,6217,0,0,0,Instituto Nacional de Vitivinicultura
+32,ARGENTINA,6,BUENOS AIRES,466,LEZAMA,6466,0,0,0,Instituto Nacional de Vitivinicultura
