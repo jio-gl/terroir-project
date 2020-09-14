@@ -4,6 +4,8 @@ A Data Science tool for Vineyards in Argentina, Location Scorings and Discoverin
 
 Uses regression to estimate Scoring of new wine locations.
 
+Two layers: i) Vineyards Layer, ii) Scoring Layer.
+
 ![alt text](https://i.ibb.co/n8fkCGD/Terroir.png "Terroir")
 
 
